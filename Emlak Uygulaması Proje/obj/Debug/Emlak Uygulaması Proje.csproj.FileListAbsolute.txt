@@ -1,0 +1,30 @@
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\bin\Debug\Emlak Uygulaması Proje.exe.config
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\bin\Debug\Emlak Uygulaması Proje.exe
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\bin\Debug\Emlak Uygulaması Proje.pdb
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.AssemblyReference.cache
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Form1.resources
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Properties.Resources.resources
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.GenerateResource.cache
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.exe
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.pdb
+C:\Users\erayy\Desktop\Kurs proje\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.FormMusteri.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\bin\Debug\Emlak Uygulaması Proje.exe.config
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\bin\Debug\Emlak Uygulaması Proje.exe
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\bin\Debug\Emlak Uygulaması Proje.pdb
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.AssemblyReference.cache
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.FormMusteri.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Properties.Resources.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.GenerateResource.cache
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.csproj.CoreCompileInputs.cache
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.exe
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak Uygulaması Proje.pdb
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Arnova.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.KonutResimleri.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Time.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Cold.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.İletisim.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Hakkında.resources
+C:\Users\erayy\Desktop\Kurs proje - Kopya (2)\Emlak Uygulaması Proje\Emlak Uygulaması Proje\obj\Debug\Emlak_Uygulaması_Proje.Kartvizit.resources
